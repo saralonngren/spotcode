@@ -5,4 +5,4 @@ A "spotify" in pwa.
 
 Ruby `2.6.3` 
 
-Rails `5.2.4.2`
+Rails `6.0.2.1`
